@@ -27,7 +27,7 @@
 <http://vivoweb.org/ontology/core#prerequisiteFor> <http://www.w3.org/2000/01/rdf-schema#label> "Voraussetzung für"@de-DE .
 <http://vivoweb.org/ontology/core#WorkshopSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Workshop-Reihe"@de-DE .
 <http://vivoweb.org/ontology/core#supportedBy> <http://www.w3.org/2000/01/rdf-schema#label> "unterstützt von"@de-DE .
-<http://vivoweb.org/ontology/core#Department> <http://www.w3.org/2000/01/rdf-schema#label> "Fachbereich"@de-DE .
+<http://vivoweb.org/ontology/core#Department> <http://www.w3.org/2000/01/rdf-schema#label> "Fakultät"@de-DE .
 <http://vivoweb.org/ontology/core#Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Museum"@de-DE .
 <http://vivoweb.org/ontology/core#features> <http://www.w3.org/2000/01/rdf-schema#label> "Funktionen"@de-DE .
 <http://purl.org/ontology/bibo/PersonalCommunicationDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Personal Communication Document"@de-DE .
